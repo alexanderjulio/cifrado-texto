@@ -58,5 +58,6 @@ function copiarTexto(){
 
   //Limpia la caja de texto luego de copiarla
   //document.getElementById('resultado').value = '';
+  //
 }
 
